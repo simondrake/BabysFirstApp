@@ -1,0 +1,16 @@
+PODS:
+  - lottie-ios (3.1.8)
+
+DEPENDENCIES:
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+
+PODFILE CHECKSUM: d425712a71776338f97136ff5ae11198ca016485
+
+COCOAPODS: 1.9.3
